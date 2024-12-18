@@ -4,7 +4,7 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
-DOMAIN-KEYWORD,mate
+DOMAIN-KEYWORD,meta
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
